@@ -1,6 +1,13 @@
-Start Server:
-        npm start
+## ElasticUI
+Contains UI for [ElasticSearch](https://github.com/ashishkumar9211/elasticsearch) App
 
-Build src Files:
+##### Dependencies
 
-        npm run-script build
+- Nodejs
+- npm
+
+###### Run UI
+
+**Start Server: **  `npm start`
+
+**Build Files:** `npm run-script build`
