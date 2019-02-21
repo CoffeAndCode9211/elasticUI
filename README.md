@@ -1,12 +1,12 @@
 ## ElasticUI
 Contains UI for [ElasticSearch](https://github.com/ashishkumar9211/elasticsearch) App
 
-#### Dependencies
+### Dependencies:
 
 - Nodejs
 - npm
 
-#### Run UI
+### Run UI:
 
 **Start Server:**  `npm start`
 
